@@ -1,0 +1,9 @@
+1. serverless functions(both scheduled and event based – at least two of each)
+2. non-relational cloud storage
+3. caching for at least one cloud service
+4. API management
+
+Your application should also implement one of the following:
+(i) Edge computing
+(ii) Multi-cloud
+(iii) Step Functions
